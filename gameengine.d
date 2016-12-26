@@ -1,0 +1,9 @@
+.\gameengine.o: GameEngine.c
+.\gameengine.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\gameengine.o: tm4c123gh6pm.h
+.\gameengine.o: ST7735.h
+.\gameengine.o: Random.h
+.\gameengine.o: TExaS.h
+.\gameengine.o: ADC.h
+.\gameengine.o: images.h
+.\gameengine.o: Sound.h
