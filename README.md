@@ -1,4 +1,4 @@
-# Space-Invaders-
+# Space-Invaders
 Final Project for the Intro to Embedded Systems course at UT Austin 
 
 Created a Space Invaders game on the TM4C123 from ground up implementing many data acquisition systems, timers, interrupts, drivers, and hardware interfacing. 
